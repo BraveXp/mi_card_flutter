@@ -18,12 +18,20 @@ class MyApp extends StatelessWidget {
                 backgroundImage: AssetImage('images/Untitled.jpg'),
               ),
               Text(
-                'Yiğit YILDIRIM',
+                'Yiğit',
                 style: TextStyle(
-                    fontFamily: 'Indie Flower',
+                    fontFamily: 'Pacifico',
                     fontSize: 40.0,
                     color: Colors.white,
                     fontWeight: FontWeight.bold),
+              ),
+              Text(
+                'Ruthless Outlaw',
+                style: TextStyle(
+                    fontFamily: 'Source Sans Pro',
+                    fontSize: 20.0,
+                    color: Colors.teal[100],
+                    letterSpacing: 2.5),
               ),
             ],
           ),
