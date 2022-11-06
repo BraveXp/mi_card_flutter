@@ -1,4 +1,4 @@
-#Sun Nov 06 12:47:20 TRT 2022
+#Sun Nov 06 15:23:06 TRT 2022
 base.0=C\:\\Users\\yigit\\Documents\\GitHub\\mi_card_flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
